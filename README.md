@@ -1,6 +1,6 @@
 # Batman!
- Meu primeiro Repositório
+ *Meu primeiro Repositório*
 
-Repositório criado durante uma aula do Curso em Vídeo.
+Repositório criado durante uma aula do **Curso em Vídeo**.
 
 Adicionei esta linha diretamente no Site. 
